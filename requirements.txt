@@ -115,7 +115,7 @@ itsdangerous==0.24
 jdcal==1.4
 jedi==0.13.2
 jeepney==0.4
-Jinja2==2.10
+Jinja2==2.11.3
 jmespath==0.9.4
 jsonlines==1.2.0
 jsonschema==2.6.0
